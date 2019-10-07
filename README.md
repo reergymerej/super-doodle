@@ -16,3 +16,7 @@ git submodule add ./foo
 
 Follow these steps to split a directory into a new project.
   https://help.github.com/en/articles/splitting-a-subfolder-out-into-a-new-repository
+
+
+Remove foo/, commit.
+git submodule add git@github.com:reergymerej/super-doodle-foo.git foo
